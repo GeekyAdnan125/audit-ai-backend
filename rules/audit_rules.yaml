@@ -1,0 +1,6 @@
+
+duplicate_invoice:
+  enabled: true
+
+vendor_concentration:
+  threshold_percent: 40
